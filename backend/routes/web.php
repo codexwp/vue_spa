@@ -14,7 +14,6 @@
 */
 
 $router->get('/', function () use ($router) {
-    dd(auth()->user());
     return $router->app->version();
 });
 $router->group(['prefix' => 'api/v1', 'middleware' => 'cors'], function () use ($router) {
