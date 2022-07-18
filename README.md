@@ -45,5 +45,5 @@ Now your frontend is running on http://localhost:8080/
 
 ## Default Credentials
 - Username : api@lumen.com
-- Password : 123456
+- Password : 12345678
 
