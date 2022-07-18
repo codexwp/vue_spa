@@ -1,0 +1,32 @@
+#Frontend
+/frontend/.DS_Store
+/frontend/node_modules
+/frontend//dist
+
+
+# local env files
+/frontend/.env.local
+/frontend/.env.*.local
+
+# Log files
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/pnpm-debug.log*
+
+
+# Backend
+/backend/vendor
+/backend/Homestead.json
+/backend/Homestead.yaml
+/backend/.env
+/backend/.phpunit.result.cache
+
+# Editor directories and files
+/.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
